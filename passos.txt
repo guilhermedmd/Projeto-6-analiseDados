@@ -1,0 +1,5 @@
+tratar os valores outliers de vibracao, fazer gráficos para demonstrar isso 
+tratar os valores nulos de vibracao 
+usar as técnicas de one hot enconding e label enconding para as colunas do tipo objeto 
+também temos que aplicar a normalização nas colunas de temperatura do motor e vibracao
+depois disso podemos treinar o modelo 
